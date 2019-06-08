@@ -1,0 +1,135 @@
+.white {
+    color: black;
+    width: 50px;
+    height: 300px;
+    float: left;
+    margin:1px;
+}
+        /* button1 */
+.black1,.black2,.black3,.black4,.black5,.black6,.black7,.black8,.black9,.black10,.black11,.black12,.black13,.black14,.black15 {
+    position: absolute;
+    height: 150px;
+    width:40px;
+    z-index: 90;
+    margin-top: 0px;
+    margin-left:-1061px;
+    border:1 px solid black;
+    box-shadow: inset 0px 0px 10px 5px gray;
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+    cursor: pointer;
+}
+.black1:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+}
+
+
+        /* button2 */
+.black2 {
+    margin-left: -1009px;
+}
+.black2:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+
+
+            /* button3 */
+}.black3 {
+    margin-left: -905px;
+}
+.black3:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+
+
+          /* button4 */
+}.black4 {
+    margin-left: -853px;
+}
+.black4:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+
+
+            /* button5 */
+}.black5 {
+    margin-left: -801px;
+}
+.black5:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+
+
+            /* button6 */
+}.black6 {
+    margin-left: -697px;
+}
+.black6:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+
+
+            /* button7 */
+}.black7 {
+    margin-left: -645px;
+}
+.black7:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+
+
+            /* button8 */
+}.black8 {
+    margin-left: -541px;
+}
+.black8:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+
+
+            /* button9 */
+}.black9 {
+    margin-left: -489px;
+}
+.black9:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+
+
+            /* button10 */
+}.black10 {
+    margin-left: -437px;
+}
+.black10:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+
+
+            /* button11 */
+}.black11 {
+    margin-left: -335px;
+}
+.black11:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+
+
+            /* button12 */
+}.black12 {
+    margin-left: -283px;
+}
+.black12:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+
+            /* button13 */
+}.black13 {
+    margin-left: -179px;
+}
+.black13:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+
+
+            /* button14 */
+}.black14 {
+    margin-left: -127px;
+}
+.black14:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+
+
+            /* button15 */
+}.black15 {
+    margin-left: -75px;
+}
+.black:active {
+    background: linear-gradient(to bottom,black 0%, gray 100%);
+}
